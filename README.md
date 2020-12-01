@@ -1,2 +1,2 @@
 # Tribute-Page
-Created with CodeSandbox
+This is a tribute page dedicated to Dr. Norman Borlaug.
